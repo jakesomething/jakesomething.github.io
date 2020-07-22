@@ -3,7 +3,7 @@ title: Jake Something
 description: 'Business Card Page'
 url: 'http://jakesomething.github.io'
 baseurl: ''
-profilepic: '/images/jake.jpg'
+profilepic: '/images/jake.JPG'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
